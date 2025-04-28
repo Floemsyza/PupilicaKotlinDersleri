@@ -7,7 +7,7 @@ fun main(){
     var ulke = "Türkiye"
     println("Ülke: $ulke")
 
-    var telefon = 0123456789
+    var telefon = 123456789
     val telefonString = telefon.toString()
     println("Telefon: $telefonString")
 
@@ -145,7 +145,7 @@ fun main(){
 
     val kuponKodu = "A1B2C3"
     println("Kupon Kodu: $kuponKodu")
-    
+
     val faturaAdresi = "İstanbul/Kadıköy"
     println("Fatura Adresi: $faturaAdresi")
 
